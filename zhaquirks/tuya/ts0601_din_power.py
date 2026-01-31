@@ -240,6 +240,7 @@ class TuyaPowerMeter(TuyaSwitch):
         MODELS_INFO: [
             ("_TZE200_byzdayie", "TS0601"),
             ("_TZE200_ewxhg6o9", "TS0601"),
+            ("_TZE204_goecjd1t", "TS0601"),
         ],
         ENDPOINTS: {
             # <SimpleDescriptor endpoint=1 profile=260 device_type=51
